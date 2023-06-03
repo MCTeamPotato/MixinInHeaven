@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="mixininheaven"
+version="${file.jarVersion}"
+displayName="MixinInHeaven"
+authors="Team Potato"
+description='''
+
+'''
